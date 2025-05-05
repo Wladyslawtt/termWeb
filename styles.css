@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: #000;
+    color: #33ff33;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+  }
+  
+  .terminal {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .line {
+    margin: 5px 0;
+  }
+  
+  .prompt {
+    color: #33ff33;
+  }
+  
+  a {
+    color: #00ffff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
